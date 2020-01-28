@@ -1,11 +1,11 @@
 # Site settings
-author: Stevi Hall
-title: 
+author: Stevi
+title: What did I get myself into?!
 header-img: img/home-bg.png
 email: career.sh.work@gmail.com
-copyright_name: Stevi Hall
+copyright_name: Stevi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Stevi's Software Engineering Adventure
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  shall807
